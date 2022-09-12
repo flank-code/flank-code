@@ -4,7 +4,7 @@
 😄
 
 
-- 🔭 web3.0 expoler
+- 🔭 web3.0 exploer
 - 🌱 I’m currently learning Rust Python Javascript Solidity
 
 ⭐
